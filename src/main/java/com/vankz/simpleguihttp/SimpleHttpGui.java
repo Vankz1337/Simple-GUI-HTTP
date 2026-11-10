@@ -109,7 +109,7 @@ public final class SimpleHttpGui extends JFrame {
         try {
             port = Integer.parseInt(portField.getText().trim());
             if (port < 1 || port > 65535 || host.isBlank()) throw new IllegalArgumentException();
-        } catch (RuntimeException ex)) {
+        } catch (RuntimeException ex) {
             JOptionPane.showMessageDialog(this, "Enter a valid host and port (1-65535).", "Invalid settings", JOptionPane.ERROR_MESSAGE);
             return;
         }
