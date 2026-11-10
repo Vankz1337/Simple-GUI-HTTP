@@ -1,6 +1,6 @@
 # Simple-GUI-HTTP (Java)
 
-A small Java desktop port of [SkyDev06/Simple-Gui-HTTP](https://github.com/SkyDev06/Simple-Gui-HTTP).
+A small Java desktop inspirated by [SkyDev06/Simple-Gui-HTTP](https://github.com/SkyDev06/Simple-Gui-HTTP).
 
 ## Features
 - Start and stop HTTP or HTTPS.
